@@ -13,7 +13,9 @@ We will deal with a real-life example of car sales to predict the price for cars
 ## Resources
 
 **Python Version:** 3.7
+
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+
 **Dataset Source:** https://github.com/timurista/data-analysis/blob/master/python-jupyter/1.04.%20Real-life%20example.csv
 
 ## dataset details
